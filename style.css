@@ -1,0 +1,82 @@
+@charset "UTF-8";
+*{
+
+}
+.nome{
+    background-color: lightpink;
+    text-align: center;
+    align-items: center;
+    
+
+}
+div{
+    background-color: lightpink;
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+    background-position: 100%;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    ;
+
+}
+.titii{
+    
+    
+    
+    color: black;
+    
+    background-color:
+
+    
+}
+.img{
+    border-radius: 200px;
+    border: 5px solid rgb(255, 97, 150);
+    margin: 0;
+    padding: 0;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    
+}
+
+body{ margin: 0;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.aga4{
+    background-color: lightcoral;
+    
+}
+.sobremim{
+    color: rgb(255, 101, 124);
+    text-decoration: underline;
+}
+.botoes{
+    padding: 10px;
+    border-radius: 20px;
+    margin: 15px;
+    background-color: pink;
+    color:black
+    transition:palevioletred 1s;
+    cursor: pointer;
+}
+.botoes:hover{
+    background-color: palevioletred;
+}
+footer {
+  background-color: #6a0dad
+  color: white; 
+  text-align: center;    
+  padding: 15px;      
+  font-family: Arial, sans-serif;
+  position: relative;     
+  bottom: 0;
+  left: 0;
+  width: 100%;          
+}
